@@ -1,0 +1,15 @@
+https://github.com/azkalot1/histopathologic_cancer_detection 
+https://medium.com/@sergeykolchenko/histopathologic-cancer-detection-as-image-classification-using-pytorch-557aab058449
+https://www.kaggle.com/sermakarevich/complete-handcrafted-pipeline-in-pytorch-resnet9
+https://www.kaggle.com/c/humpback-whale-identification/discussion/82366#latest-523382
+https://github.com/SeuTao/Humpback-Whale-Identification-Challenge-2019_2nd_palce_solution
+https://www.kaggle.com/solomonk/pytorch-gpu-cnn-bceloss-with-predictions 
+https://discuss.pytorch.org/t/training-phase-of-leave-one-out-cross-validation/30138/2 
+
+Humbpack whale classification solution code:
+
+https://github.com/earhian/Humpback-Whale-Identification-1st-/blob/master/train.py
+
+For cross validation:
+
+https://www.kaggle.com/kernels/scriptcontent/11206253/notebook
